@@ -26,7 +26,7 @@ This repository stores a bunch of leadership and management diagrams—like “L
    Use the raw file URL to embed, for example:
 
    ```markdown
-   ![Ladder of Autonomy](https://raw.githubusercontent.com/arjitsrivastava/leadership-images/main/images/ladder-of-autonomy.png)
+   ![Ladder of Autonomy](https://raw.githubusercontent.com/arjitsrivastava/leadership-images/refs/heads/main/images/ladder_of_autonomy.png)
 
 ## License
 
