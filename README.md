@@ -27,3 +27,10 @@ This repository stores a bunch of leadership and management diagrams—like “L
 
    ```markdown
    ![Ladder of Autonomy](https://raw.githubusercontent.com/arjitsrivastava/leadership-images/main/images/ladder-of-autonomy.png)
+
+## License
+
+All images in this repository are licensed under the
+[Creative Commons Attribution 4.0 International](LICENSE.md).
+
+That means you're free to share and adapt them, **so long as you give credit.**
