@@ -2,7 +2,7 @@
 
 This repository stores a bunch of leadership and management diagrams—like “Ladder of Autonomy”—that **you’re free to use and remix**. All I ask is that you **_give me proper credit_**. 
 
-> **TL;DR**: If you use my images, please link back to this repo or mention my name. Don’t be a jerk. That’s all I’m asking.
+> **TL;DR**: If you use my images, please link back to this repo or mention my name. That’s all I’m asking.
 
 ## Structure
 
